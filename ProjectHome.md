@@ -1,0 +1,1 @@
+This project has been moved to [Github](https://github.com/t-arn/java-ide-droid)
